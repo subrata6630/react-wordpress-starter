@@ -13,11 +13,11 @@ const About = () => {
             aliquip ex ea commodo consequat.
           </p>
           <hr />
-          <p>Created by ♥ Sabuj Ali</p>
+          <p>Created by ♥ Subrata Debnath</p>
         </div>
         <button type="button" className="btn btn-outline-info">
           <a
-            href="https://github.com/prosabuj/react-wordpress-starter"
+            href="https://github.com/subrata6630/react-wordpress-starter"
             target="__blank"
           >
             Project Source
